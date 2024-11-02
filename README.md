@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Z3alotik
-- 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning Java, JavaScript via work. In my free time i also work with C# during my game dev nights :D
+- 👀 I’m interested in REACT FE Development.
+- 🌱 I’m currently learning JS/TS via work.
 
 <!---
 Z3alotik/Z3alotik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
